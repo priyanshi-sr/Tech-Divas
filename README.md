@@ -1,2 +1,2 @@
 # Tech-Divas
-IRIS 
+IRIS Classification using Machine Learning
